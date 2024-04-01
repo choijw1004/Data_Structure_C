@@ -1,8 +1,0 @@
-﻿  chain_hashing.c
-C:\Users\82105\source\repos\hashing_chain\hashing_chain\chain_hashing.c(27,15): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\82105\source\repos\hashing_chain\hashing_chain\chain_hashing.c(118,16): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\82105\source\repos\hashing_chain\hashing_chain\chain_hashing.c(292,16): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\82105\source\repos\hashing_chain\hashing_chain\chain_hashing.c(326,16): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\82105\source\repos\hashing_chain\hashing_chain\chain_hashing.c(342,13): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\82105\source\repos\hashing_chain\hashing_chain\chain_hashing.c(342,19): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
-  hashing_chain.vcxproj -> C:\Users\82105\source\repos\hashing_chain\x64\Debug\hashing_chain.exe

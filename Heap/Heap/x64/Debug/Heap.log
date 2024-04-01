@@ -1,3 +1,0 @@
-﻿  heap.c
-C:\Users\82105\source\repos\Heap\Heap\heap.c(61,9): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
-  Heap.vcxproj -> C:\Users\82105\source\repos\Heap\x64\Debug\Heap.exe
