@@ -1,0 +1,6 @@
+﻿  Stack.c
+C:\Users\82105\source\repos\ArrayStack\ArrayStack\Stack.c(33,3): warning C4033: 'pop'은(는) 값을 반환해야 합니다.
+C:\Users\82105\source\repos\ArrayStack\ArrayStack\Stack.c(44,3): warning C4033: 'peek'은(는) 값을 반환해야 합니다.
+C:\Users\82105\source\repos\ArrayStack\ArrayStack\Stack.c(49): warning C4715: 'peek': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\82105\source\repos\ArrayStack\ArrayStack\Stack.c(40): warning C4715: 'pop': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  ArrayStack.vcxproj -> C:\Users\82105\source\repos\ArrayStack\x64\Debug\ArrayStack.exe

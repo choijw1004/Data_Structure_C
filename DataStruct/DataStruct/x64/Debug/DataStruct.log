@@ -1,0 +1,6 @@
+﻿  1.c
+C:\Users\82105\source\repos\DataStruct\DataStruct\1.c(82,10): warning C4013: 'enqueue'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82105\source\repos\DataStruct\DataStruct\1.c(86,18): warning C4013: 'dequeue'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82105\source\repos\DataStruct\DataStruct\1.c(89,6): error C2371: 'enqueue': 재정의. 기본 형식이 다릅니다.
+C:\Users\82105\source\repos\DataStruct\DataStruct\1.c(94,15): warning C4133: '함수': 'Queue *'과(와) 'Stack *' 사이의 형식이 호환되지 않습니다.
+C:\Users\82105\source\repos\DataStruct\DataStruct\1.c(103,15): warning C4133: '함수': 'Queue *'과(와) 'Stack *' 사이의 형식이 호환되지 않습니다.
