@@ -27,5 +27,5 @@
 - [x]  **[polynomial.c](https://github.com/choijw1004/Data_Structure_C/blob/main/files/polynomial.c)**
 - [x]  **[셸정렬.c](https://github.com/choijw1004/Data_Structure_C/blob/main/files/%EC%85%B8%EC%A0%95%EB%A0%AC.c)**
 - [x]  **[B_tree.c](https://github.com/choijw1004/Data_Structure_C/blob/main/files/B_tree.c)**
-- [x]  **[b_plus_tree.c](https://github.com/choijw1004/Data_Structure_C/blob/main/files/b_plus_tree.c)**
+- [x]  **[B+tree.c](https://github.com/choijw1004/Data_Structure_C/blob/main/files/b_plus_tree.c)**
 - [x]  **[chain_hashing.c](https://github.com/choijw1004/Data_Structure_C/blob/main/files/chain_hashing.c)**
