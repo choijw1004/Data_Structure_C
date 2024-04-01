@@ -1,0 +1,9 @@
+﻿  LinkedListStack.c
+C:\Users\82105\source\repos\LinkedListStack\LinkedListStack\LinkedListStack.c(40,3): warning C4033: 'pop'은(는) 값을 반환해야 합니다.
+C:\Users\82105\source\repos\LinkedListStack\LinkedListStack\LinkedListStack.c(56,3): warning C4033: 'peek'은(는) 값을 반환해야 합니다.
+C:\Users\82105\source\repos\LinkedListStack\LinkedListStack\LinkedListStack.c(53,10): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+C:\Users\82105\source\repos\LinkedListStack\LinkedListStack\LinkedListStack.c(65,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'stackNode *'입니다.
+C:\Users\82105\source\repos\LinkedListStack\LinkedListStack\LinkedListStack.c(65,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) stackNode *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\82105\source\repos\LinkedListStack\LinkedListStack\LinkedListStack.c(50): warning C4715: 'pop': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\82105\source\repos\LinkedListStack\LinkedListStack\LinkedListStack.c(61): warning C4715: 'peek': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  LinkedListStack.vcxproj -> C:\Users\82105\source\repos\LinkedListStack\x64\Debug\LinkedListStack.exe

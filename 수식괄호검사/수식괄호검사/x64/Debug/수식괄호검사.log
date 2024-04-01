@@ -1,0 +1,6 @@
+﻿  수식괄호검사.c
+C:\Users\82105\source\repos\수식괄호검사\수식괄호검사\수식괄호검사.c(20,38): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82105\source\repos\수식괄호검사\수식괄호검사\수식괄호검사.c(20,57): warning C4312: '형식 캐스트': 'int'에서 더 큰 'stackNode *'(으)로의 변환입니다.
+C:\Users\82105\source\repos\수식괄호검사\수식괄호검사\수식괄호검사.c(39,7): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82105\source\repos\수식괄호검사\수식괄호검사\수식괄호검사.c(70,24): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  수식괄호검사.vcxproj -> C:\Users\82105\source\repos\수식괄호검사\x64\Debug\수식괄호검사.exe

@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(LinkedList.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  LinkedList.c
+C:\Users\82105\source\repos\연결리스트\LinkedList\LinkedList.c(20,27): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82105\source\repos\연결리스트\LinkedList\LinkedList.c(20,49): warning C4312: '형식 캐스트': 'int'에서 더 큰 'linkedList_h *'(으)로의 변환입니다.
+C:\Users\82105\source\repos\연결리스트\LinkedList\LinkedList.c(31,7): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82105\source\repos\연결리스트\LinkedList\LinkedList.c(52,47): warning C4312: '형식 캐스트': 'int'에서 더 큰 'listNode *'(으)로의 변환입니다.
+C:\Users\82105\source\repos\연결리스트\LinkedList\LinkedList.c(61,47): warning C4312: '형식 캐스트': 'int'에서 더 큰 'listNode *'(으)로의 변환입니다.
+C:\Users\82105\source\repos\연결리스트\LinkedList\LinkedList.c(81,47): warning C4312: '형식 캐스트': 'int'에서 더 큰 'listNode *'(으)로의 변환입니다.
+  LinkedList.vcxproj -> C:\Users\82105\source\repos\연결리스트\x64\Debug\연결리스트.exe
