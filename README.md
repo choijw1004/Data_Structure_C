@@ -20,7 +20,7 @@
 - [x]  **[SelectionSort.c](https://github.com/choijw1004/Data_Structure_C/blob/main/files/SelectionSort.c)**
 - [x]  **[QuickSort.c](https://github.com/choijw1004/Data_Structure_C/blob/main/files/QuickSort.c)**
 - [x]  **[MergeSort.c](https://github.com/choijw1004/Data_Structure_C/blob/main/files/MergeSort.c)**
-- [x]  **[TrieSort.c](https://github.com/choijw1004/Data_Structure_C/blob/main/files/TrieSort.c)**
+- [x]  **[TreeSort.c](https://github.com/choijw1004/Data_Structure_C/blob/main/files/TreeSort.c)**
 - [x]  **[radixSort.c](https://github.com/choijw1004/Data_Structure_C/blob/main/files/radixSort.c)**
 - [x]  **[BST2.c](https://github.com/choijw1004/Data_Structure_C/blob/main/files/BST2.c)**
 - [x]  **[heap.c](https://github.com/choijw1004/Data_Structure_C/blob/main/files/heap.c)**
