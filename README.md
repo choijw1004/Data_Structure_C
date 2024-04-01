@@ -1,5 +1,8 @@
 # Data_Structure_C
-
+데이터 구조론, 알고리즘 기초, 알고리즘 분석 강의에서 배우고 혼자 구현해본 것들.
+<br>
+<br>
+선형리스트부터 B+트리, hashing chain 까지.
 - [x]  **[List.c](https://github.com/choijw1004/Data_Structure_C/blob/main/files/List.c)**
 - [x]  **[Circular.c](https://github.com/choijw1004/Data_Structure_C/blob/main/files/Circular.c)**
 - [x]  **[LinkedList.c](https://github.com/choijw1004/Data_Structure_C/blob/main/files/LinkedList.c)**
