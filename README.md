@@ -1,4 +1,4 @@
-# Data_Structure_C
+# Data_Structure_C__
 데이터 구조론, 알고리즘 기초, 알고리즘 분석 강의에서 배우고 혼자 구현해본 것들.
 <br>
 <br>
